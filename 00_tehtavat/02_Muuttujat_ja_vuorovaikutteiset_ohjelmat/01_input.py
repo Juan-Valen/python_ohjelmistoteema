@@ -1,3 +1,5 @@
-nimi = input("What is your name?")
-
-print('Terve, %s' % (nimi))
+#INPUT
+print("Name: ")
+nimi: str = input("Name: ")
+#OUTPUT
+print(f"\nTerve, {nimi}!")
