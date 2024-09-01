@@ -12,7 +12,7 @@
 
 import math
 
-
+# INTRO
 le:float = float(input("Anna leiviskät: "))
 leg:float
 n:float = float(input("Anna naulat: "))
