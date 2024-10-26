@@ -18,7 +18,7 @@ for city in cities:
         # INPUT
         os.system("cls")
         cities[city] = input(f"Provide {city} a name: ")
-        
+
 # OUTPUT
 os.system("cls")
 for city in cities:
